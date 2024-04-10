@@ -1,6 +1,5 @@
 package company;
 
-import java.security.PublicKey;
 
 public class Department {
    private final String name;
